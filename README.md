@@ -2,7 +2,7 @@
 - Unity -> Window -> Package Manager  
 - Click "+" at the top left corner  
 - Add package from git URL  
-- Insert `https://github.com/boxqkrtm/com.unity.ide.cursor.git`  
+- Insert `[https://github.com/infamxvs/com.unity.ide.cursor.git`  
 - Add  
 - Done
 
